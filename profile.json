@@ -1,7 +1,7 @@
 {
-    "name": "Kevin Reji",
-    "tagline": "Hello, I am Kevin",
-    "bio": "I am a club head to three clubs.",
+    "name": "Your Name",
+    "tagline": "Your one-line introduction",
+    "bio": "Write 2 or 3 sentences about yourself.",
     "skills": [
         "Git",
         "HTML"
@@ -10,10 +10,10 @@
         {
             "title": "My first project",
             "desc": "What it does.",
-            "link": "https://github.com/kev-n25"
+            "link": "https://github.com/yourname"
         }
     ],
     "links": {
-        "github": "https://github.com/kev-n25"
+        "github": "https://github.com/yourname"
     }
 }
